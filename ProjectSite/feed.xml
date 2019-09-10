@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:837D90F2-BD11-4320-8341-373651654D6C</id>
  <title>Page list Atom feed</title>
- <updated>2019-09-07T17:42:00+02:00</updated>
+ <updated>2019-09-10T20:56:25+02:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">About Me</title>
   <in-navbar xmlns="urn:iweb:">0E983015-151D-4C66-8EA7-A58BD4B6304C</in-navbar>
   <link rel="alternate" href="About_Me.html"/>
-  <updated>2019-09-07T17:42:00.001+02:00</updated>
+  <updated>2019-09-10T20:56:25.001+02:00</updated>
   <content>About Me</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Research</title>
   <in-navbar xmlns="urn:iweb:">3DB42953-FC7E-496D-ADED-7E86A5C5EBA0</in-navbar>
   <link rel="alternate" href="Research.html"/>
-  <updated>2019-09-07T17:42:00.002+02:00</updated>
+  <updated>2019-09-10T20:56:25.002+02:00</updated>
   <content>Research</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Publications</title>
   <in-navbar xmlns="urn:iweb:">6BC9CA88-ECCB-439F-B9D6-CC798DECED17</in-navbar>
   <link rel="alternate" href="Publications.html"/>
-  <updated>2019-09-07T17:42:00.003+02:00</updated>
+  <updated>2019-09-10T20:56:25.003+02:00</updated>
   <content>Publications</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">MINI JOBS</title>
   <in-navbar xmlns="urn:iweb:">193234F4-5804-4F50-965E-D99AFB7B64E6</in-navbar>
   <link rel="alternate" href="MINI_JOBS.html"/>
-  <updated>2019-09-07T17:42:00.004+02:00</updated>
+  <updated>2019-09-10T20:56:25.004+02:00</updated>
   <content>MINI JOBS</content>
  </entry>
 </feed>
