@@ -5,12 +5,12 @@ permalink: /about/
 ---
 ## Research Interests
 
-![AFeurdean]({{ site.url }}/images/feurdean.jpg)
+![AFeurdean]({{ /assets/feurdean.jpg | relative_url}})
 # What?
 
 I am seeking to understand the temporal and spatial dynamics of vegetation and its diversity, climate, fire regime, and peatland development, and carbon fluxes using fossil records. My research goal is to place the current and ongoing environmental changes into a long-term perspective and improve the predictive capacity of the probable future change.
 
-![Charcoal]({{ site.url }}/images/charcoal.jpg)
+![Charcoal]({{ site.url }}/assets/charcoal.jpg)
 # Where?
 
 My focus ecosystems are the temperate (forests, subalpine-aline, grasslands, wetlands), arctic, and boreal environments in central and eastern Europe, western Siberia and northern Alaska.
